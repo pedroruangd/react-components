@@ -1,20 +1,12 @@
 .IMC {
 
-    background-color: #f2f2f2;
+    background-color: #ccc;
     margin: 20px auto;
     padding: 40px 0;
-    width: 600px;
-    border-radius: 10px;
-    border: 1px solid #eee;
+    width: 1000px;
 
-}
-.IMC input {
-    padding: 10px;
-    margin: 5px;
-    border-radius: 6px;
-    border: 1px solid #ddd;
 }
 
 .IMC h2 {
-    color:darkslateblue;
+    color: blue;
 }
