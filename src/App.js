@@ -1,10 +1,10 @@
-import Header from './components/Header';
-import CalculatorIMC from './components/IMC';
-import Form from './components/Form/Form'
-import Login from './components/Login/LoginControl'
-import { Heading1, Loader } from './components/Styles/styles'
-import Stack from '@mui/material/Stack'
-import Button from '@mui/material/Button'
+// import Header from './components/Header';
+// import CalculatorIMC from './components/IMC';
+// import Form from './components/Form/Form'
+// import Login from './components/Login/LoginControl'
+// import { Heading1, Loader } from './components/Styles/styles'
+// import Stack from '@mui/material/Stack'
+// import Button from '@mui/material/Button'
 import React from 'react';
 import { Box, Container, ThemeProvider }  from '@mui/system' 
 import { themeOne, themeTwo } from './theme'
